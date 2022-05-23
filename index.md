@@ -1,5 +1,5 @@
 
-[Server Information](https://github.com/curtwarfield/website/server/)
+[Server Information](https://github.com/curtwarfield/website/server.md/)
 
 ### How to configure Network-Bound Disk Encryption to automatically open encrypted disks.
 
