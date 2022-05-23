@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: template
 title: "Server Information"
-permalink: /server
+filename: server.md
 ---
 
 ### Server information
