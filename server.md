@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Server Information"
-permalink: /URL-PATH/
+permalink: https://curtwarfield.github.io/website/server
 ---
 
 ### Server information
